@@ -25,7 +25,7 @@ const ahmetTarikBostan = {
        },
         persistance : {
           orm : ["EntityFramework","Hibernate"],
-          databases : ["PostgreSql","MSSql","Oracle"]
+          databases : ["PostgreSql","MSSql","Oracle","DB2"]
           
        }
     },
@@ -35,9 +35,8 @@ const ahmetTarikBostan = {
 ```
 
 <p align="center">
-	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+	<a href="https://www.linkedin.com/in/atbostan"><img style="width:40px;" src="./assets/linkedin.png" alt="LinkedIn"/></a>&nbsp;
+	<a href="https://medium.com/@atbostan.developer"><img style="width:40px;margin-left:5px" src="./assets/medium.png" alt="Medium"/></a>&nbsp;
+	<a href="https://www.atbostan.com"><img style="width:40px;margin-left:5px" src="./assets/mywebpage.png" alt="My Web Page"/></a>&nbsp;
+
 </p>
