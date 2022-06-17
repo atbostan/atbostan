@@ -1,6 +1,6 @@
 ### aboutMe.js
 
-![alt text](./assets/hero.svg)
+![alt text](./assets/hero2.svg)
 
 ```javascript
 const ahmetTarikBostan = {
@@ -9,9 +9,9 @@ const ahmetTarikBostan = {
     askMeAbout: ["Web Development","Coffee", "Fitness"],
     technologies: {
         frontEnd: {
-            library : ["react"],
+            library : ["React"],
             css: ["Bootstrap", "Materialize"],
-            tools :["redux"]         
+            tools :["Redux"]         
         },
         backEnd: {
             java : { 
@@ -25,7 +25,7 @@ const ahmetTarikBostan = {
        },
         persistance : {
           orm : ["EntityFramework","Hibernate"],
-          databases : ["PostgreSql","MSSql","Oracle","DB2"]
+          databases : ["PostgreSql","MSSql","Oracle","DB2","Firebase"]
           
        }
     },
