@@ -1,16 +1,33 @@
-### Hi there 👋
+### aboutMe.js
 
-<!--
-**atbostan/atbostan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const ahmetTarikBostan = {
+    pronouns: "he" | "him",
+    languages: [Java, C#, Javascript, CSS, HTML, COBOL],
+    askMeAbout: ["Web Development","Coffee", "Fitness"],
+    technologies: {
+        frontEnd: {
+            library : ["react"],
+            css: ["Bootstrap", "Materialize"],
+            tools :["redux"]         
+        },
+        backEnd: {
+            java : { 
+              frameworks : ["Spring", "Spring Boot", "Spring Security"]
+            },
+            c# : { 
+              frameworks : [".NET", ".NET Core"],
+              webAppFrameworks : ["Abp-Asp.net Boilerplate"]
+            },
+            tools:["Hangfire","Autofac","Fluent Validation"]           
+       },
+        persistance : {
+          orm : ["EntityFramework","Hibernate"],
+          databases : ["PostgreSql","MSSql","Oracle"]
+          
+       }
+    },
+    business : ["Banking Domain","Educational Web Applications", "Event Management Applications", "CMS Projects"],
+    soon : ["Mobile Applications with React Native is in progress"]
+};
+```
