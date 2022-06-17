@@ -1,9 +1,11 @@
 ### aboutMe.js
 
+![alt text](./assets/hero.svg)
+
 ```javascript
 const ahmetTarikBostan = {
     pronouns: "he" | "him",
-    languages: [Java, C#, Javascript, CSS, HTML, COBOL],
+    languages: ["Java", "C#", "Javascript", "CSS", "HTML", "COBOL"],
     askMeAbout: ["Web Development","Coffee", "Fitness"],
     technologies: {
         frontEnd: {
@@ -31,3 +33,11 @@ const ahmetTarikBostan = {
     soon : ["Mobile Applications with React Native is in progress"]
 };
 ```
+
+<p align="center">
+	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
